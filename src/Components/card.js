@@ -1,5 +1,4 @@
 import React from 'react';
-import './index.css';
 
 const card = (props)=>{
     return (
